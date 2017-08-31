@@ -1,0 +1,17 @@
+{
+  "name": "firebase-auth-web-modile",
+  "version": "0.0.1",
+  "description": "Firebase Authenticate modules to Web and Cordova Applications",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Firebase",
+    "Authentication",
+    "Web",
+    "Cordova."
+  ],
+  "author": "Silas S. Brasil",
+  "license": "ISC"
+}
